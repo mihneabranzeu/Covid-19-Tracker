@@ -1,0 +1,5 @@
+This is my Covid-19 tracker web development app. It's made in React
+and it makes use of the "disease.sh" open API, in order to gather relevant
+data about countries' current situation. The information is displayed in a
+MapContainer, from the react-leaflet package and also on a graph created with
+chart.js
